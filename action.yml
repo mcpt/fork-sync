@@ -33,4 +33,4 @@ inputs:
 
 runs:
   using: 'node12'
-  main: 'lib/main.js'
+  main: 'lib/index.js'
